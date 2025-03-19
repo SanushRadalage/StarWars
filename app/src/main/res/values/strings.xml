@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="image_description">Planet Image</string>
+    <string name="climate">Climate:</string>
+    <string name="planets">Planets</string>
+    <string name="planet_details">Planet Details</string>
+    <string name="icon_back_description">Navigate back</string>
+    <string name="orbital_period">Orbital Period:</string>
+    <string name="gravity">Gravity:</string>
+</resources>
