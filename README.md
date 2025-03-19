@@ -2,7 +2,7 @@
 
 ## Architecture
 
-Clean Architecture (MVVM, Use Cases, Jetpack Compose)
+Clean Architecture (MVVM, Paging3, Room Database, Jetpack Compose)
 
 ```
 project
@@ -22,7 +22,7 @@ project
 
 ## UI
 
-<img src="https://github.com/SanushRadalage/NationalizeApp/blob/main/app/src/main/res/drawable/screenshots.png">
-
+<img src="https://github.com/SanushRadalage/StarWars/blob/main/app/src/main/res/drawable/screenshot01.png" width="400px">
+<img src="https://github.com/SanushRadalage/StarWars/blob/main/app/src/main/res/drawable/screenshot02.png" width="400px">
 
 🌎 Happy Coding!
